@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Calculator {
-
+somnath
   
     public static double add(double x, double y) {
         return x + y;
